@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+#
+# Copyright (c) 2017 Song Hyeon Sik (blogcin@naver.com)
+#
 import subprocess
 
 def runProcess(exe):    
